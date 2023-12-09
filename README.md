@@ -22,7 +22,7 @@ A dedicated and enthusiastic React Full-Stack developer over the past six months
 
 - 💬 Ask me about **react, VUE, tailwind CSS**
 
-- 📫 Reach me via [Email] (**reduanulhaque13@gmail.com**)
+- 📫 Reach me via Email at **reduanulhaque13@gmail.com**
 
 <br/>
 
@@ -53,9 +53,9 @@ A dedicated and enthusiastic React Full-Stack developer over the past six months
 </div>
 
 </td><td valign="top" width="33%">
-  
+
+<div align="center"> 
 ### Tools 
-<div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" height="50" /></a>
 <a href="https://netlify.app/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netlify_logo_icon_169924.png" alt="netlify" height="50" /></a>

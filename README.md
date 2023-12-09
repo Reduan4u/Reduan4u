@@ -2,7 +2,11 @@
 <img src="https://i.ibb.co/7rDrwHK/Full-Stack-developer.png" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Reduanul Haque </div>  
+### <div align="center">I'm Reduanul Haque </div> 
+
+<h1 align="center">
+    <img style = "width:100vw" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Reduanul+Haque!;" />
+</h1>
 <div align="center">A Full-Stack Web Developer 👨‍💻</div>  
 <br/> 
 
@@ -85,7 +89,7 @@ A dedicated and enthusiastic React Full-Stack developer over the past six months
 - Search and Pagination functionality available.
 - Private route necessary for ordering foods and adding to cart.
 - User can add foods and will show it through the database.
-- Google authentication available, user can log in through Email as well.
+- Google authentication is available, users can log in through Email as well.
 - Dark/Light mood on interface available.
 - User friendly and easy to manage.
 <br/>

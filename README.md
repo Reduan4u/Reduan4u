@@ -22,7 +22,7 @@ A dedicated and enthusiastic React Full-Stack developer over the past six months
 
 - 📫 How to reach me **reduanulhaque13@gmail.com**
 
-- <br/>
+<br/>
 
 
 ## 💻 My Skills & Tools:

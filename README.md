@@ -2,8 +2,6 @@
 <img src="https://i.ibb.co/7rDrwHK/Full-Stack-developer.png" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Reduanul Haque </div> 
-
 <h1 align="center">
     <img style = "width:100vw" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Reduanul+Haque!;" />
 </h1>
@@ -20,11 +18,11 @@ A dedicated and enthusiastic React Full-Stack developer over the past six months
 
 - 🌱 I’m currently learning **Next.js, Mongoose, Material UI**
 
-- 👨‍💻 My Resume [https://drive.google.com/file/d/1CrMN3IEgISByl-sGreSbcil72Y5Bhd54/view?usp=sharing](https://drive.google.com/file/d/1CrMN3IEgISByl-sGreSbcil72Y5Bhd54/view?usp=sharing)
+- 👨‍💻 My [Resume](https://drive.google.com/file/d/1CrMN3IEgISByl-sGreSbcil72Y5Bhd54/view?usp=sharing)
 
 - 💬 Ask me about **react, VUE, tailwind CSS**
 
-- 📫 How to reach me **reduanulhaque13@gmail.com**
+- 📫 Reach me via [Email] (**reduanulhaque13@gmail.com**)
 
 <br/>
 
@@ -70,7 +68,7 @@ A dedicated and enthusiastic React Full-Stack developer over the past six months
 # Top Projects
 
 ## 1. Parcel Tracker
-#### ✔ Parcel Tracker Management Website with MERN stack [https://parcel-tracker-8ab9f.web.app/]
+#### ✔ [Parcel Tracker](https://parcel-tracker-8ab9f.web.app/) Management Website with MERN stack 
 **Github Links:**
 #### front-end [https://github.com/Reduan4u/Parcel_Tracker-Client]
 #### back-end [https://github.com/Reduan4u/Taste-Trial-Paradise-Server]

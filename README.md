@@ -3,12 +3,12 @@
 </div>  
 
 <h1 align="center">
-    <img style = "width:100vw" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Reduanul+Haque!;" />
+    <img style = "width:100vw" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Reduanul+Haque!;" />
 </h1>
-<div align="center">A Full-Stack Web Developer 👨‍💻</div>  
+<div align="center"><h2>A Full-Stack Web Developer 👨‍💻</h2></div>  
 <br/> 
 
-A dedicated and enthusiastic React Full-Stack developer over the past six months, I have been sharpening my skills in web development, specializing in React.js for front-end development, Express.js for server-side development, and MongoDB for working with databases as my back-end.  
+<p>A dedicated and enthusiastic React Full-Stack developer over the past six months, I have been sharpening my skills in web development, specializing in React.js for front-end development, Express.js for server-side development, and MongoDB for working with databases as my back-end. </p> 
   
 <br/>
 
@@ -25,13 +25,14 @@ A dedicated and enthusiastic React Full-Stack developer over the past six months
 - 📫 Reach me via Email at **reduanulhaque13@gmail.com**
 
 <br/>
+<br/>
 
 
 ## 💻 My Skills & Tools:
 <table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
+  
+<div align="center"> 
+ <h1>Frontend</h1>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -44,8 +45,8 @@ A dedicated and enthusiastic React Full-Stack developer over the past six months
 </div>
 </td><td valign="top" width="33%">
 
-### Backend  
-<div align="center">  
+<div align="center"> 
+ <h1>Backend</h1> 
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -67,42 +68,59 @@ A dedicated and enthusiastic React Full-Stack developer over the past six months
 
 # Top Projects
 
-## 1. Parcel Tracker
-#### ✔ [Parcel Tracker](https://parcel-tracker-8ab9f.web.app/) Management Website with MERN stack 
-**Github Links:**
-#### front-end [https://github.com/Reduan4u/Parcel_Tracker-Client]
-#### back-end [https://github.com/Reduan4u/Taste-Trial-Paradise-Server]
-#### Admin email: parcel.tracker.admin1@gmail.com
-#### Delivery Men’s email: deliveryman1.pt@gmail.com
-#### Admin password: Asdfgh!1
-#### Delivery Men’s password: Asdfgh!1
+## 1. Parcel Tracker 
+#### 📦 This is a Parcel Management Website built using the MERN stack. In this online platform people can Book parcels to Deliver, An Admin Can Assign a Delivery Person, and a Delivery Person Delivers the Parcel. 
+
+- **Top 3 Key Features:**
+  - Parcel Tracking System: Real-time parcel tracking for both users and admins.
+  - User Management: User authentication and authorization for different roles.
+  - Admin Dashboard: A centralized dashboard for administrators to manage and monitor all parcels and users.
+
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Backend: Express.js, Node.js
+  - Database: MongoDB
+  - Authentication: Firebase Authentication with JWT
+  -  [Live Site](https://parcel-tracker-8ab9f.web.app/) || [Client Site](https://github.com/Reduan4u/Parcel_Tracker-Client) || [Server Site](https://github.com/Reduan4u/Taste-Trial-Paradise-Server)
+  -  Admin email: parcel.tracker.admin1@gmail.com || Password: Asdfgh!1
+  -  Delivery Men’s email: deliveryman1.pt@gmail.com || Password: Asdfgh!1
+
 <br/>
+
 
 ## 2. Taste Trial Paradise
-#### ✔ A restaurant Management Website with MERN stack [https://taste-trial-paradise.web.app/]
-**Github Links:**
-#### front-end [https://github.com/Reduan4u/Taste-Trial-Paradise-Client]
-#### back-end [https://github.com/Reduan4u/Taste-Trial-Paradise-Server]
-#### Top 5 main Features of This Project:
-- Search and Pagination functionality available.
-- Private route necessary for ordering foods and adding to cart.
-- User can add foods and will show it through the database.
-- Google authentication is available, users can log in through Email as well.
-- Dark/Light mood on interface available.
-- User friendly and easy to manage.
+#### 🍔 This is a simple full-stack Restaurant website for the owner. Here, a user can See All Food Items, See a Single item, Add A Food item, Delete An Item, and Modify An Item.
+
+- **Top 3 Key Features:**
+  - Search and Pagination functionality available.
+  - Private route necessary for ordering foods and adding to cart.
+  - Dark/Light mood on interface available.
+
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Backend: Express.js, Node.js
+  - Database: MongoDB
+  - Authentication: Firebase Authentication with JWT
+  -  [Live Site](https://fintex-fitness.netlify.app) || [Client Site](https://github.com/Reduan4u/Taste-Trial-Paradise-Client) || [Server Site](https://github.com/Reduan4u/Taste-Trial-Paradise-Server)
+
 <br/>
 
+
 ## 3. Future Station
-#### ✔ A eCommerce Shop Website with MERN stack [https://future-station.web.app/]
-**Github Links:**
-#### front-end [https://github.com/Reduan4u/Future_Station_eShop-Client]
-#### back-end [https://github.com/Reduan4u/Future_Station_eShop-Server]
-#### About This Project:
-- User will get separate products of different Brands in a place.
-- Private route necessary for showing products and adding to cart.
-- User can add products and will show it through the database.(brand name have to matched)
-- Google authentication available, user can log in through Email as well.
-- Dark/Light mood on interface available.
+#### 🛒 This is an eShop Website built with MERN Stack where users will add and buy their digital Brand Products and also can add and update their added products. 
+
+- **Top 3 Key Features:**
+  - Users will get separate products of different Brands in a place.
+  - Private route necessary for showing products and adding to cart.
+  - User can add products and will show it through the database. (brand name has to match)
+
+- **Technologies Used:**
+  - Frontend: JavaScript, React.js, Tailwind CSS
+  - Backend: Express.js, Node.js
+  - Database: MongoDB
+  - Authentication: Firebase Authentication with JWT
+  -  [Live Site](https://future-station.web.app/) || [Client Site](https://github.com/Reduan4u/Future_Station_eShop-Client) || [Server Site](https://github.com/Reduan4u/Future_Station_eShop-Server)
+
 <br/>
 
 

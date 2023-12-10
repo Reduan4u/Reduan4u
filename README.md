@@ -101,7 +101,7 @@
   - Backend: Express.js, Node.js
   - Database: MongoDB
   - Authentication: Firebase Authentication with JWT
-  -  [Live Site](https://fintex-fitness.netlify.app) || [Client Site](https://github.com/Reduan4u/Taste-Trial-Paradise-Client) || [Server Site](https://github.com/Reduan4u/Taste-Trial-Paradise-Server)
+  -  [Live Site](https://taste-trial-paradise.web.app/) || [Client Site](https://github.com/Reduan4u/Taste-Trial-Paradise-Client) || [Server Site](https://github.com/Reduan4u/Taste-Trial-Paradise-Server)
 
 <br/>
 
